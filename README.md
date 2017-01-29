@@ -22,7 +22,7 @@ Note: Working out is not for everyone. If you feel as though you cannot handle a
 <br />
 
 <hr />
-<h4>Libraries Used:</h4>
+<h4>Libraries Used</h4>
 <hr />
 None.
 
